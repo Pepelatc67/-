@@ -1,0 +1,11 @@
+table{background-image: url(./камчатка/вулкан.jpg);
+height:100vh;
+background-repeat:no-repeat ;
+background-size: cover;
+background-position: center;
+}
+body{background-color: blue;}
+.menu a {font: 30px bold ;text-decoration-line:none;
+     sans-serif; color: gold;}
+     h2{font-size: 70px;color: rgb(18, 214, 11);}
+     p{color: red;}
